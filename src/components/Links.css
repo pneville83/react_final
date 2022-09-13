@@ -1,0 +1,9 @@
+.social {
+  display: flex;
+  justify-content: center;
+}
+
+.network {
+  width: 80px;
+  height: 80px;
+}

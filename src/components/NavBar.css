@@ -1,14 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
 
-* {
-  padding: 0px;
-  margin: 0px;
-  box-sizing: border-box;
-}  
+
 
 .menu {
-  width: 97%;
-  height: 10vh;
+  width: 74%;
+ 
   border-bottom: solid white 1px;
   position: fixed;
   background-color: rgba(0, 0, 0, 0.356);
