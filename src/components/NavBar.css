@@ -3,8 +3,7 @@
 
 
 .menu {
-  width: 74%;
- 
+  width: 100%;
   border-bottom: solid white 1px;
   position: fixed;
   background-color: rgba(0, 0, 0, 0.356);

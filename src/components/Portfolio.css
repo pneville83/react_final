@@ -10,8 +10,8 @@
   padding: 20px;
   padding-top: 80px;
   display: flex;
-  background-color: red;
   gap:10px;
+  justify-content: space-between;
   
   text-align: center;
   font-family: 'Oswald', sans-serif;

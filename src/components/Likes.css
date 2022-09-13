@@ -8,17 +8,17 @@
 
 .likes {
   display: flex;
-  width: 1220px;
-  justify-content: space-around;
-  margin-left: 20px;
+  width: 100%;
+  justify-content: space-evenly;
 }
 
 .like {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 300px;
-  margin-left: 20px;
+  width: 33%;
+  margin-left: 60px;
+  margin-right: 60px;
   background-color:#7892c2;
   border-radius: 10px;
   font-family: 'Oswald', sans-serif;

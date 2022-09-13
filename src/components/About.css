@@ -21,7 +21,7 @@
 }
 
 .intro {
-  width: 50%;
+  width: 800px;
   background-color: rgba(0, 0, 0, 0.253);
   text-align: end;
   padding: 10px;
@@ -30,12 +30,17 @@
   font-size: xx-large;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.note {
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
 }
 
 .pic {
-  width: 24%;
-  height: 40vh;
+  width: 220px;
+  height: 220px;
   background: url(./Images/pic.png);
   background-repeat: no-repeat;
   background-size: cover;
