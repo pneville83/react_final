@@ -19,7 +19,7 @@
 }
 
 .me {
-  width: 60%;
+  width: 40%;
   display: flex;
   justify-content: left;
   flex-wrap: wrap;
@@ -28,7 +28,7 @@
 }
 
 .menu_bar {
-  width: 40%;
+  width: 60%;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
