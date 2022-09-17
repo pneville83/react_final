@@ -3,6 +3,7 @@ import { Formik, Form, Field, ErrorMessage } from 'formik';
 import { useState } from 'react';
 
 
+
 const Formulario = () => {
 
   const [sendForm, setSendForm] = useState (false);
@@ -12,7 +13,8 @@ const Formulario = () => {
       <Formik
         initialValues={{
           name: '',
-          email: ''
+          email: '',
+          message: ''
         }}
         validate= {(values)=>{
           let errors ={}
